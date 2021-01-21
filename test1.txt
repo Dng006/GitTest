@@ -4,8 +4,3 @@ bbb
 ccc
 dev111
 dev222
-<<<<<<< .merge_file_a06912
-local111
-=======
-git111
->>>>>>> .merge_file_a04884
